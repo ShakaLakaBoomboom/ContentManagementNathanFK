@@ -1,0 +1,97 @@
+/* 
+Theme Name: Nisarg-Child 
+Theme URL: http://localhost/wp
+Description: Nisarg Child 
+Theme Author: Nathan
+Author URL: http://localhost/wp
+Template: nisarg 
+Version: 1.0.0 
+Text Domain: nisarg-child 
+*/
+
+h1.site-title
+{
+	font-family: "Lucida Console", monospace; 
+	color:#c18a05;
+	
+}
+
+h2.site-description
+{
+	font-family: "Lucida Console", monospace; 
+	
+}
+
+h2
+{
+	font-family: "Lucida Console", monospace; 
+	color:#c18a05;
+}
+
+a
+{
+	font-family: "Lucida Console", monospace;
+	font-size: 18px;
+	
+}
+
+p
+{
+	font-family: "Lucida Console", monospace;
+	font-size: 18px;
+	color:#c18a05;
+}
+
+div.navbar-header
+{
+	font-family:Monospace;
+}
+
+div#primary
+{
+	background-color:#444444;
+}
+header.entry-header
+{
+	background-color:#444444;
+}
+h4
+{
+	font-family: "Lucida Console", monospace;
+	color:#c18a05;
+}
+div.entry-content
+{
+	background-color:#01011A;
+}
+footer.entry-footer
+{
+	background-color:#444444;
+}
+
+h1.entry-title
+{
+	font-family: "Lucida Console", monospace; 
+	color:#c18a05;
+	
+}
+footer#colophon.site-footer
+{
+	font-family: Monospace;
+	color:white;
+	background-color: #01011A;
+}
+div.imsg.first
+{
+	font-family: "Lucida Console", monospace;
+	font-size: 18px;
+	color:#c18a05;
+}
+a.custombutton.customize-unpreviewable
+{
+	font-family: "Lucida Console", monospace;
+	font-size: 18px;
+	border-radius:3px;
+	background:white;
+	color:#c18a05;
+}
